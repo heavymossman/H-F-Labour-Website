@@ -319,3 +319,11 @@ a.white {
 	background-color: #d50000;
 	color: white;
 }
+
+
+.btn-round {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 60px;
+}
